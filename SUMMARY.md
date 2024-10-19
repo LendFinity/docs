@@ -11,6 +11,9 @@
   * [Supported Assets](overview/assets-listings/supported-assets.md)
 * [Audits](overview/audits.md)
 * [Tokenomics](overview/tokenomics.md)
+* [Interest Rate](overview/interest-rate.md)
+* [Rate Strategies](overview/rate-strategies.md)
+* [Risk Parameters](overview/risk-parameters.md)
 
 ## ADDRESSES
 
