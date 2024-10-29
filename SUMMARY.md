@@ -20,9 +20,11 @@
 * [Testnet](addresses/testnet/README.md)
   * [Testnet Contracts](addresses/testnet/testnet-contracts.md)
   * [Testnet Tokens](addresses/testnet/testnet-tokens.md)
+  * [Testnet Price Feeds](addresses/testnet/testnet-price-feeds.md)
 * [Mainnet](addresses/mainnet/README.md)
   * [Mainnet Contracts](addresses/mainnet/mainnet-contracts.md)
   * [Mainnet Tokens](addresses/mainnet/mainnet-tokens.md)
+  * [Mainnet Price Feeds](addresses/mainnet/mainnet-price-feeds.md)
 
 ## LINKS
 

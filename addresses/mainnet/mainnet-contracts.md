@@ -1,7 +1,5 @@
 # Mainnet Contracts
 
-
-
 | Name                          | Address                                                                                                                                             |
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ACLManager                    | [0x53809e6E012211bd5c9e2C95349382A6E29a7bB8](https://explorer.mainnet.bitfinity.network/address/0x53809e6E012211bd5c9e2C95349382A6E29a7bB8)         |
@@ -38,8 +36,4 @@
 | UiPoolDataProviderV3          | [0x3247F90893725486c79bE53ABC6eFf3161d439a2](https://explorer.mainnet.bitfinity.network/address/0x3247F90893725486c79bE53ABC6eFf3161d439a2)         |
 | VariableDebtToken             | [0xbAfFe3a49359095915222AC2FA089Eda5C73b744](https://explorer.mainnet.bitfinity.network/address/0xbAfFe3a49359095915222AC2FA089Eda5C73b744)         |
 | WalletBalanceProvider         | [0xEEF3a71E0bb5aAc2A9c9420558780af1d4421660](https://explorer.mainnet.bitfinity.network/address/0xEEF3a71E0bb5aAc2A9c9420558780af1d4421660)         |
-| WrappedTokenGateway           | [0x99467c06e05872761e3D88B3a9Ea69f42EC560A4](https://explorer.mainnet.bitfinity.network/address/0x99467c06e05872761e3D88B3a9Ea69f42EC560A4)         |
-|                               |                                                                                                                                                     |
-| WBFT AToken                   | [0xfEc744b57518B3341658397cE3dF5c018a841b5D](https://explorer.mainnet.bitfinity.network/address/0xfEc744b57518B3341658397cE3dF5c018a841b5D)         |
-| WBFT StableDebtToken          | [0xc05F0924a3B05ab7484Bee8374310C5Fb848a5A1](https://explorer.mainnet.bitfinity.network/address/0xc05F0924a3B05ab7484Bee8374310C5Fb848a5A1)         |
-| WBFT VariableDebtToken        | [0xDC1538ec6daB3d9f6C849b7cCb2003cbb24F0835](https://explorer.mainnet.bitfinity.network/address/0xDC1538ec6daB3d9f6C849b7cCb2003cbb24F0835)         |
+| WrappedTokenGateway           | [0xA4A32488C6517f26d6a902008C9bc43F3e96435f](https://explorer.mainnet.bitfinity.network/address/0xA4A32488C6517f26d6a902008C9bc43F3e96435f)         |
