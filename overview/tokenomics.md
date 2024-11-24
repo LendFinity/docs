@@ -1,5 +1,6 @@
 ---
 description: $LEND powers Governance on Lendfinity
+hidden: true
 ---
 
 # Tokenomics
