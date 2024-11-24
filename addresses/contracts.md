@@ -1,4 +1,8 @@
-# Mainnet Contracts
+---
+description: Smart contracts that make up the Lendfinity protocol
+---
+
+# Contracts
 
 | Name                          | Address                                                                                                                                             |
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |

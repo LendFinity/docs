@@ -17,10 +17,9 @@
 
 ## ADDRESSES
 
-* [Mainnet](addresses/mainnet/README.md)
-  * [Mainnet Contracts](addresses/mainnet/mainnet-contracts.md)
-  * [Mainnet Tokens](addresses/mainnet/mainnet-tokens.md)
-  * [Mainnet Price Feeds](addresses/mainnet/mainnet-price-feeds.md)
+* [Contracts](addresses/contracts.md)
+* [Tokens](addresses/tokens.md)
+* [Price Feeds](addresses/price-feeds.md)
 
 ## LINKS
 
