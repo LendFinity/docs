@@ -18,7 +18,7 @@ $$
 * $$U_{optimal}$$: **Optimal Utilization** - The utilisation rate targeted by asset reserve.
 * $$R_0$$: **Base Borrow Rate** - Defines minimum borrow rate.
 * $$R_{slope1}$$: **Rate Slope 1** - Constant representing the scaling of the interest rate versus the utilization, when utilization is below optimal.
-* $$R_{slope2}$$: **Rate Slope 2 **_**-**_ Constant representing the scaling of the interest rate versus the utilization, when utilization is over optimal.
+* $$R_{slope2}$$: **Rate Slope 2&#x20;**_**-**_ Constant representing the scaling of the interest rate versus the utilization, when utilization is over optimal.
 
 ## Supply Rate
 

@@ -17,10 +17,6 @@
 
 ## ADDRESSES
 
-* [Testnet](addresses/testnet/README.md)
-  * [Testnet Contracts](addresses/testnet/testnet-contracts.md)
-  * [Testnet Tokens](addresses/testnet/testnet-tokens.md)
-  * [Testnet Price Feeds](addresses/testnet/testnet-price-feeds.md)
 * [Mainnet](addresses/mainnet/README.md)
   * [Mainnet Contracts](addresses/mainnet/mainnet-contracts.md)
   * [Mainnet Tokens](addresses/mainnet/mainnet-tokens.md)
@@ -28,7 +24,7 @@
 
 ## LINKS
 
-* [Twitter](https://x.com/lendfinity\_xyz)
+* [Twitter](https://x.com/lendfinity_xyz)
 * [Telegram](https://t.me/lendfinity)
 * [Github](https://github.com/ICP-hackathon-btc-stablecoin)
 * [Medium](https://medium.com/@lendfinity.xyz)
