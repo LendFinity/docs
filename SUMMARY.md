@@ -27,5 +27,5 @@
 * [Telegram](https://t.me/lendfinity)
 * [OpenChat](https://oc.app/community/x2pwb-5qaaa-aaaaf-bn3vq-cai/channel/214945809187307660120337095047391999547)
 * [Demo](https://www.youtube.com/watch?v=7fvtINvTelI)
-* [Github](https://github.com/ICP-hackathon-btc-stablecoin)
+* [Github](https://github.com/LendFinity)
 * [Medium](https://medium.com/@lendfinity.xyz)
