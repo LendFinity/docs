@@ -1,3 +1,7 @@
+---
+description: The Lending Protocol on Bitfinity
+---
+
 # Introduction to Lendfinity
 
 <figure><img src=".gitbook/assets/Captura de ecrã 2024-05-20, às 22.29.31.png" alt=""><figcaption></figcaption></figure>
