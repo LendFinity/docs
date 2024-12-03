@@ -26,5 +26,7 @@ These are the Risk parameters for each asset:
 | ckETH  | 75%      | 80%          | 5%       | 10%            | Volatile  |
 | ckUSDT | 75%      | 80%          | 5%       | 10%            | Stable #2 |
 | ckUSDC | 75%      | 80%          | 5%       | 10%            | Stable #2 |
+| SONIC  | 50%      | 80%          | 5%       | 10%            | Volatile  |
+| DKP    | 75%      | 80%          | 5%       | 10%            | Volatile  |
 | GLDT   | 75%      | 80%          | 5%       | 10%            | Volatile  |
 | RICH   | 50%      | 75%          | 5%       | 10%            | Volatile  |

@@ -13,5 +13,7 @@ description: Smart contracts used to get the price of a given token
 | ckETH (ICP)    | [0x5748c74a090Be529f38AA8dF96d2F930A49Ab8AB](https://explorer.mainnet.bitfinity.network/address/0x5748c74a090Be529f38AA8dF96d2F930A49Ab8AB)                   |
 | ckUSDT (ICP)   | [0x1d0e53A3b294a4Ce84a4986f7Af6bf820bab5516](https://explorer.mainnet.bitfinity.network/address/0x1d0e53A3b294a4Ce84a4986f7Af6bf820bab5516)                   |
 | ckUSDC (ICP)   | [0x736A31927Ef907C47173aD591113f131Bcc849af](https://explorer.mainnet.bitfinity.network/address/0x736A31927Ef907C47173aD591113f131Bcc849af?tab=read_contract) |
+| SONIC (ICP)    | [0x6f96b634A1A3E3991E46308325863128684ebab3](https://explorer.mainnet.bitfinity.network/address/0x6f96b634A1A3E3991E46308325863128684ebab3)                   |
+| DKP (ICP)      | [0xC73ef269937449c8d85B140A46e0328c2695cb37](https://explorer.mainnet.bitfinity.network/address/0xC73ef269937449c8d85B140A46e0328c2695cb37)                   |
 | GLDT (ICP)     | [0x431c6Cada46B4c480c61590433bBc5F2B3d2404b](https://explorer.mainnet.bitfinity.network/address/0x431c6Cada46B4c480c61590433bBc5F2B3d2404b)                   |
 | RICH (Rune)    | [0x93c52eDAE4d4307703568d213ADbD6Ff0e87a5b8](https://explorer.mainnet.bitfinity.network/address/0x93c52eDAE4d4307703568d213ADbD6Ff0e87a5b8?tab=read_contract) |
